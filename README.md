@@ -6,7 +6,7 @@
     <title>PAWS (Protecting Animals With Support)</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
-        :root {
+        : root {
             --primary-color: #940c00f1;
             --primary-dark: #e65c50;
             --secondary-color: #4a90e2;
